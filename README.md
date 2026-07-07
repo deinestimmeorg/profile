@@ -4,7 +4,7 @@ Full-Stack-Entwickler: React/Next.js · TypeScript · Supabase/Postgres. Ich bau
 
 **Live:**
 
-- [lenkstern.eu](https://lenkstern.eu) — Reha-Nachsorge-Plattform, mein größtes Projekt: 150+ Routen, Ende-zu-Ende-verschlüsselter Chat (libsodium), pseudonyme Auth ohne Klarnamen, Art.-9-Datenmodell mit Row-Level-Security → [Repo](https://codeberg.org/lenkstern/reha-lenkstern)
+- [lenkstern.eu](https://lenkstern.eu) — Reha-Nachsorge-Plattform, mein größtes Projekt: 150+ Routen, Ende-zu-Ende-verschlüsselter Chat (libsodium), pseudonyme Auth ohne Klarnamen, Art.-9-Datenmodell mit Row-Level-Security · Code im Pilot privat, AGPL-Release Q3 2026
 - [deinestimme.org](https://deinestimme.org) — Civic-Tech-Beteiligungsplattform, komplett von US-Diensten (GitHub, Vercel, Cloudflare) auf einen deutschen Stack migriert → [Repo](https://codeberg.org/deinestimmeorg/deinestimme)
 - [wirtschaft.deinestimme.org/atlas](https://wirtschaft.deinestimme.org/atlas) — Energie- und Ressourcenatlas: interaktive Karten zu Energie, Rohstoffen und Geopolitik, alle Visualisierungen ohne Chart-Bibliothek → [Repo](https://codeberg.org/deinestimmeorg/deinestimme-wirtschaft)
 
